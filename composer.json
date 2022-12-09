@@ -1,0 +1,15 @@
+{
+    "name": "thilabro/fpdf",
+    "description": "composer plugub for fpdf",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Thilabro\\Fpdf\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7.4"
+    }
+}
